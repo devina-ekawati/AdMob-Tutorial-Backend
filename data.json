@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "activity": "MainActivity",
+            "ads": [
+                "ca-app-pub-7950058275143592/6638554264",
+                "ca-app-pub-7950058275143592/6359352668"
+            ]
+        },
+        {
+            "activity": "SecondActivity",
+            "ads": [
+                "ca-app-pub-7950058275143592/6638554264"
+            ]
+        },
+        {
+            "activity": "ThirdActivity",
+            "ads": [
+                "ca-app-pub-7950058275143592/6359352668"
+            ]
+        }
+    ]
+}
